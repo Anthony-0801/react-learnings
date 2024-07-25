@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
+//This app is a simple counter that increments the count when the user clicks a button, and resets the count when the user clicks another button.
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
