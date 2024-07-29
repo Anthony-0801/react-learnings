@@ -5,4 +5,4 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-root.render(<App name="Anthony Abad Cabulang" age="21" address="Damortis Santo Tomas, La Union"/>);
+root.render(<App/>);
